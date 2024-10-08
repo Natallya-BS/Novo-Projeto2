@@ -1,0 +1,2 @@
+Aula 07/10/2024
+Atividade criando repositório e conectando git local e remoto
